@@ -13,3 +13,6 @@ optuna
 evidently
 boto3
 holidays
+seaborn
+evidently
+shap
